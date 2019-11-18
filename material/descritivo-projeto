@@ -1,0 +1,115 @@
+Salve o Rango
+
+- Login/Cadastro
+    + Por e-mail, Facebook ou Conta Google
+    + Informa o endereço (podendo ter mais de 1).
+- Tela de lista de refeições
+    + Exibe as opções de refeição por ordem de proximidade.
+    + Filtros e ordenadores da listagem por estilo de refeição, hora de retirada, preço, mais perto, raio de distancia, melhor avaliado, vegetariano, vegano, exibir somente os disponíveis
+    + Sempre exibir um limite de refeições
+    + Descrição do que esperar
+    + Horário que pode buscar
+    + valor
+    + Foto
+    + Localização para direcionar para o mapa e distância em km e tempo para chegar lá
+    + Nome, telefone, redes sociais e logo do estabelecimento
+    + Botão de comprar
+- Pagamento:
+    + Direto no app, com cartão de crédito
+    + Possibilitar salvar múltiplos cartões
+    + Usuário recebe um cupom em QR Code para apresentar ao estabelecimento ou compartilhar com outra pessoa para que busque.
+    + Split de pagamento com Pagar.me.
+- Push notification
+    + Quando existir novas refeições em um perímetro X configurável.
+    + Criar possibilidade de alertas por valor, tipo de refeição etc.
+    + Sugerir doação da refeição (paga o frete) e ganha pontos
+    + Mensagns divertidas estilo iFood.
+- Retirada da refeição:
+    + É somente do horário de início e término estipulado pelo estabelecimento
+    + Informar que refeição pode variar, devido ao que teve de excedente
+    + Pode ser manhã, tarde, noite, madrugada
+    + Estabelecimento lê QR Code e valida cupom
+- Sistema de avaliações
+    + Usuários podem avaliar a refeição com estrelas e comentários
+    + Exibir na página da refeição / estabelecimento
+- Área de pontuações para refeição gratuita (até X Reais)
+    + expira em 30 dias
+    + Ganhar pontos:
+        - se cadastrando
+        - completando o cadastro
+        - primeira compra
+        - x compras na mesma semana
+        - gamificar
+- Perfil do Usuário
+    + Dinheiro economizado
+    + Refeições salvas
+    + Amigos convidados
+    + Botão para convidar amigos e ganhar pontos
++ Área de cupons
++ Como funciona
++ FAQ
++ Contato
+
+---
+
+App do restaurante
+
+- Define uma quantidad, valor e refeições fixas para todos os dias ou pode alterar diariamente
+- Lista de pedidos
+- Saldo a receber
+
+Referencias
+
+- https://www.hypeness.com.br/2017/06/o-app-que-permite-comprar-restos-de-restaurantes-a-precos-baixissimos/
+- https://www.nexojornal.com.br/expresso/2016/08/15/Como-funciona-o-aplicativo-antidesperd%C3%ADcio-que-vende-restos-de-comida-de-restaurantes
+- https://super.abril.com.br/ideias/aplicativo-vende-a-comida-que-sobra-nos-restaurantes/
+- https://canaltech.com.br/apps/app-conecta-pessoas-a-restaurantes-para-reduzir-o-desperdicio-de-comida-77203/
+- https://razoesparaacreditar.com/negocios/app-sobras-comida-moradores-rua/
+- https://toogoodtogo.es/es
+- https://www.theuniplanet.com/2016/11/3-apps-contra-o-desperdicio-alimentar.html
+- https://www.buffetgousa.com/
+- https://foodforall.com
+- https://thegreenestpost.com/aplicativo-vende-comida-mais-barata-para-reduzir-desperdicio-dos-restaurantes/
+- https://www.boavontade.com/pt/tecnologia/desperdicio-de-alimentos-app-evita-que-comida-va-para-o-lixo
+- https://www.gocopia.com/#/
+- https://emais.estadao.com.br/noticias/comportamento,aplicativo-conecta-pessoas-que-tem-comida-sobrando-a-quem-precisa-de-alimento,10000080082
+- https://www.tecmundo.com.br/apps/42677-novo-app-ajuda-voce-a-compartilhar-sobras-de-comida-com-amigos-e-estranhos.htm
+- 
+
+Growth Hacking F5
+
+- Captação de leads
+    + Busca no Google segmentada: site:linkedin.com/in/ + ("diretor de rh" OR "gerente de rh") + "@gmail.com" + "novo hamburgo"
+    + Email Extractor (extensão chrome para extrair e-mails da página de resultados do google)
+    + thechecker.co (Para validar os e-mails extraídos)
+    
+
+Ajustes sistema bigodeira
+
+- Equipe | Criar área no cadastro de usuários para configurar os serviços que realiza e o valor (se não altera segue o padrão)
+- Equipe | Configurar o horário de atendimento de cada profissional, para cada dia da semana
+- Agenda | Não permitir agendar com profissional em horário que ele não atende e nem com serviço que não realiza.
+- Agenda | Calendário geral do dia, exibir um profissional por coluna e todos os horários (visualização do dia), horários fracionados de 15 em 15 minutos.
+- Agenda | No menu botao para visualizar proprios agendamentos, agenda do dia, semana e mes.
+- Agenda | No modal de edição criar botão para encerrar atendimento, ao realizar, irá gerar o financeiro.
+- Agenda | No modal de edição permitir incluir produtos que serão acrescentados no valor do serviço.
+- Geral | Crud de produtos.
+- Agenda | Criar um cadastro rápido de cliente, igual F5.6 (No modal).
+- Financeiro | Criar um modal de lançamento rápido (para gastos na barbearia).
+- Tabelas auxiliares | Incluir em nova atividade e na edição o campo de valor.
+- Site | Incluir módulo de gerenciamento do site e integrar ao layout padrão.
+- Site | Permitir o agendamento via site, a partir do modal "agende agora", verificar pelo telefone se é cliente novo ou não.
+- App | Montar todas as telas sem intergrar.
+- App | Realizar autenticação via firebase.
+- App | Integrar conteúdo do sistema, profissionais e serviços.
+- App | Realizar o agendamento.
+
+PAAR
+
+- CIPA:
+ + Testar conteúdo
+ + Implementar prova
+ + Botão no final da aula para "concluir aula"
+ + Implementar pagamento com pagar.me
+ + Criar uma versão rápida de cadastro de curso
+ comissao f5: 7,5%

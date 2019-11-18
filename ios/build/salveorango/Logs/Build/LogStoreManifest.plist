@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>3EB23397-8F61-4656-B487-488804DF7C22</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3EB23397-8F61-4656-B487-488804DF7C22.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>salveorango project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>salveorango</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project salveorango with scheme salveorango and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>583221466.11201799</real>
+			<key>timeStoppedRecording</key>
+			<real>583221467.82460594</real>
+			<key>title</key>
+			<string>Building project salveorango with scheme salveorango and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>3EB23397-8F61-4656-B487-488804DF7C22</string>
+		</dict>
+		<key>570C6DEC-778C-4E20-82F7-8F160A4A20AB</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>570C6DEC-778C-4E20-82F7-8F160A4A20AB.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>salveorango project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>salveorango</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project salveorango with scheme salveorango and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>583214297.69614196</real>
+			<key>timeStoppedRecording</key>
+			<real>583214298.94209695</real>
+			<key>title</key>
+			<string>Building project salveorango with scheme salveorango and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>570C6DEC-778C-4E20-82F7-8F160A4A20AB</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

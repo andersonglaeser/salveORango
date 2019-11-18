@@ -1,0 +1,30 @@
+dependencies: \
+  /Users/andersonglaeser/Desktop/Salve\ o\ Rango/salveorango/node_modules/react-native/React/Base/RCTJavaScriptLoader.mm \
+  /Users/andersonglaeser/Desktop/Salve\ o\ Rango/salveorango/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/andersonglaeser/Desktop/Salve\ o\ Rango/salveorango/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/andersonglaeser/Desktop/Salve\ o\ Rango/salveorango/node_modules/react-native/React/DevSupport/RCTInspectorDevServerHelper.h \
+  /Users/andersonglaeser/Desktop/Salve\ o\ Rango/salveorango/node_modules/react-native/React/DevSupport/RCTPackagerConnection.h \
+  /Users/andersonglaeser/Desktop/Salve\ o\ Rango/salveorango/ios/build/salveorango/Build/Products/Debug-iphonesimulator/include/cxxreact/JSBundleType.h \
+  /Users/andersonglaeser/Desktop/Salve\ o\ Rango/salveorango/node_modules/react-native/third-party/folly-2018.10.22.00/folly/Portability.h \
+  /Users/andersonglaeser/Desktop/Salve\ o\ Rango/salveorango/node_modules/react-native/third-party/folly-2018.10.22.00/folly/portability/Config.h \
+  /Users/andersonglaeser/Desktop/Salve\ o\ Rango/salveorango/node_modules/react-native/third-party/folly-2018.10.22.00/folly/CPortability.h \
+  /Users/andersonglaeser/Desktop/Salve\ o\ Rango/salveorango/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/andersonglaeser/Desktop/Salve\ o\ Rango/salveorango/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/andersonglaeser/Desktop/Salve\ o\ Rango/salveorango/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/andersonglaeser/Desktop/Salve\ o\ Rango/salveorango/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/andersonglaeser/Desktop/Salve\ o\ Rango/salveorango/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/andersonglaeser/Desktop/Salve\ o\ Rango/salveorango/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/andersonglaeser/Desktop/Salve\ o\ Rango/salveorango/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/andersonglaeser/Desktop/Salve\ o\ Rango/salveorango/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/andersonglaeser/Desktop/Salve\ o\ Rango/salveorango/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/andersonglaeser/Desktop/Salve\ o\ Rango/salveorango/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/andersonglaeser/Desktop/Salve\ o\ Rango/salveorango/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/andersonglaeser/Desktop/Salve\ o\ Rango/salveorango/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/andersonglaeser/Desktop/Salve\ o\ Rango/salveorango/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/andersonglaeser/Desktop/Salve\ o\ Rango/salveorango/ios/build/salveorango/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/andersonglaeser/Desktop/Salve\ o\ Rango/salveorango/ios/build/salveorango/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/andersonglaeser/Desktop/Salve\ o\ Rango/salveorango/ios/build/salveorango/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/andersonglaeser/Desktop/Salve\ o\ Rango/salveorango/ios/build/salveorango/Build/Products/Debug-iphonesimulator/include/yoga/YGValue.h \
+  /Users/andersonglaeser/Desktop/Salve\ o\ Rango/salveorango/node_modules/react-native/React/Base/RCTMultipartDataTask.h \
+  /Users/andersonglaeser/Desktop/Salve\ o\ Rango/salveorango/node_modules/react-native/React/Base/RCTMultipartStreamReader.h \
+  /Users/andersonglaeser/Desktop/Salve\ o\ Rango/salveorango/node_modules/react-native/React/Base/RCTPerformanceLogger.h

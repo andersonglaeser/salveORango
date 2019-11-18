@@ -1,0 +1,5 @@
+dependencies: \
+  /Users/andersonglaeser/Desktop/Salve\ o\ Rango/salveorango/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTMultiplicationAnimatedNode.m \
+  /Users/andersonglaeser/Desktop/Salve\ o\ Rango/salveorango/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTMultiplicationAnimatedNode.h \
+  /Users/andersonglaeser/Desktop/Salve\ o\ Rango/salveorango/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTValueAnimatedNode.h \
+  /Users/andersonglaeser/Desktop/Salve\ o\ Rango/salveorango/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTAnimatedNode.h
